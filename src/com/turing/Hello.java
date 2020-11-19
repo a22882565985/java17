@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("java172");
         System.out.println("java18");
         System.out.println("java19");
+        System.out.println("java20");
     }
 }
